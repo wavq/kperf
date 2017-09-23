@@ -1,1 +1,1 @@
-# kperf - A multithreaded performance metric
+# kperf - A simple multithreaded performance metric
